@@ -23,8 +23,20 @@
   border-radius: 5px;
 }
 
-p {
+.button {
   padding: 3px 10px;
   background: #4d5b49;
   color: #fff;
+  margin-top: 15px;
+}
+
+a {
+  padding: 3px 10px;
+  background: #33442f;
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
 }
